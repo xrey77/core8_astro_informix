@@ -1,0 +1,6 @@
+############################################################
+### DO NOT MODIFY THIS COMMENT SECTION 
+### HOST NAME = ifx 
+############################################################
+informix        onsoctcp        *ifx         9088
+informix_dr     drsoctcp        *ifx         9089
